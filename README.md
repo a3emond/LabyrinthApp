@@ -1,0 +1,2 @@
+# LabyrinthApp
+generate/solve maze
